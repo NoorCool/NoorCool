@@ -12,7 +12,7 @@ Currently, I'm expanding my horizons into the realms of Python data analysis and
 - [LinkedIn](www.linkedin.com/in/noortje-cool-b95314262)
 
 ## 📊 GitHub Stats
-![Noor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoorCool&show_icons=true&theme=radical)
+![Noor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoorCool&show_icons=true&theme=gruvbox)
 
 ## 🛠️ Tools and Technologies
 - Python
