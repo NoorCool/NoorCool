@@ -1,5 +1,3 @@
-# Hi there, I'm Noor! 👋
-
 ## 🧬 About Me
 With a degree in Biochemistry and Biotechnology, I have a strong foundation in scientific research and analytical skills.
 Currently, I'm expanding my horizons into the realms of Python data analysis and Godot game development.
@@ -23,5 +21,3 @@ Currently, I'm expanding my horizons into the realms of Python data analysis and
 - Godot
 - GDScript
 - Git
-
-Feel free to check out my repositories and connect with me. Let's learn and grow together!
