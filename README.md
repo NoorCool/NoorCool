@@ -9,9 +9,6 @@ Currently, I'm expanding my horizons into the realms of Python data analysis and
 ## 📫 Get in Touch
 - [LinkedIn](www.linkedin.com/in/noortje-cool-b95314262)
 
-## 📊 GitHub Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorCool)](https://github.com/NoorCool/github-readme-stats)
-
 ## 🛠️ Tools and Technologies
 - Python
 - Pandas
