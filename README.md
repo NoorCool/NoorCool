@@ -1,20 +1,13 @@
-## 🧬 About Me
-With a degree in Biochemistry and Biotechnology, I have a strong foundation in scientific research and analytical skills.
-Currently, I'm expanding my horizons into the realms of Python data analysis and Godot game development.
 
-## 🧪 What I'm Learning
-- **Python for Data Analysis**: Delving into the world of data science, I'm learning how to manipulate, analyze, and visualize data using Python.
-- **Godot Game Development**: In my free time, I'm diving into game development with Godot, an open-source game engine. I'm learning GDScript, and exploring game design principles.
-
-## 📫 Get in Touch
+## LinkedIn
 - [LinkedIn](www.linkedin.com/in/noortje-cool-b95314262)
 
-## 🛠️ Tools and Technologies
+## Tools
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Git
 - Godot
 - GDScript
-- Git
