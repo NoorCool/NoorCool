@@ -4,10 +4,13 @@
 
 ## Tools
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Seaborn
+- R
+  - DESeq2
+  - ggplot
 - Git
 - Godot
-- GDScript
+  - GDScript
