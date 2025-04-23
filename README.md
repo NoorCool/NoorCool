@@ -8,9 +8,10 @@
   - NumPy
   - Matplotlib
   - Seaborn
+  - MiniConda3 for Venv management
 - R
   - DESeq2
   - ggplot
-- Git
+- GitHub desktop version control
 - Godot
   - GDScript
