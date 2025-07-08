@@ -1,9 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hello%20&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=venom&text=Hello&fontAlign=45&fontSize=35&desc=there!&descAlign=55&descAlignY=50&theme=gruvbox)
 
-## LinkedIn
-- [LinkedIn](www.linkedin.com/in/noortje-cool-b95314262)
-
-## About me
+## A tiny bit about me
 ```yaml
 name : Noor Cool
 location : BKZ, Belgium
@@ -21,23 +18,30 @@ interests :
     ]
 hobbies : ["Crochet", "Guitar", "Art", "Reading", "Hiking"]
 ```
+> Link to [LinkedIn](www.linkedin.com/in/noortje-cool-b95314262)
 
-## Tools
-> Python
->
-> Most used libraries : Pandas, NumPy, Matplotlib, Seaborn
->
-> Virtual Environment management with MiniConda3 on Windows and nix shells on NixOS
+## Tools I tend to use
+### Operating system
+![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-> R
->
-> Most used libraries : tidyverse, ggplot2
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-> Godot Game Engine
->
-> GDScript
+### Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-> NixOS Desktop
+### Art Software
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
-> Version control with Git
-
+## My GitHub history
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoorCool&show_icons=false&theme=gruvbox&rank_icon=github&custom_title=My%20GitHub%20Stats" />
+</p>
