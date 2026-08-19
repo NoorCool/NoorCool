@@ -1,10 +1,10 @@
 
-## Noor - @NoorCool
+## Noor 
 ```yaml
 location : Belgium
 education : 
     [
-    "Master of Science - Biochemistry and Biotechnology (In Progress)",
+    "Master of Science - Biochemistry and Biotechnology",
     "Bachelor of Science - Biochemistry and Biotechnology"
     ]
 interests : 
