@@ -7,7 +7,7 @@ I'm a MSc. biochemist and biotechnologist with a passion for understanding biomo
 
 This GitHub contains a collection of personal projects and scientific work, mainly focused on biochemistry, biotechnology, data analysis, and programming.
 
-#### MSc Thesis — Design and experimental display of a synthetic camelid single-domain antibody library containing unconventional bovine antibody fragments
+#### MSc Thesis -> Design and experimental display of a synthetic camelid single-domain antibody library containing unconventional bovine antibody fragments
 
 This thesis involved extensive use of Python and Jupyter Notebooks for data analysis. The original thesis, data, and full source code are not publicly available.
 
